@@ -6,5 +6,7 @@ Using [BERT Sequence Classification](https://huggingface.co/transformers/model_d
 
 I have used [streamlit](https://www.streamlit.io/) and [ngrok](https://ngrok.com/) to make an online demo of the classification.
 
+---
+
 ![Classification with BERT for happy and sad tweets](https://github.com/SifatMd/Twitter-Sentiment-Analysis/blob/master/sentiment%20analysis.gif)
 
